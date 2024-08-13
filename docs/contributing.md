@@ -58,6 +58,7 @@ merged.
 # OpenSpiel visual Graph
 
 To help you understand better the framework as a whole you can go to [openspielgraph](https://openspielgraph.netlify.app) and use an interactive graph that shows the OpenSpiel repository in a wide and easy to undestand way.
+By providing intuitive visual representations, it simplifies the debugging process, aids in the optimization of algorithms, and fosters a more efficient workflow. 
 
 # Roadmap and Call for Contributions
 
